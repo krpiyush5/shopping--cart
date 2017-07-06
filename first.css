@@ -1,0 +1,140 @@
+#macbook
+{
+    height: 220px;
+    width: 250px;
+    padding: 20px;
+    border-color: black;
+    margin: 10px;
+
+}
+#iphone
+{
+    height: 220px;
+    width: 250px;
+    padding: 20px;
+    border-color: black;
+    margin: 10px;
+}
+#minote3
+{  height: 220px;
+    width: 250px;
+    padding: 20px;
+    border-color: black;
+    margin: 10px;
+}
+
+#rolex
+{height: 220px;
+    width: 250px;
+    padding: 20px;
+    border-color: black;
+    margin: 10px;
+
+}
+#chocolate
+{height: 220px;
+    width: 250px;
+    padding: 20px;
+    border-color: black;
+    margin: 10px;
+
+}
+#ml
+{
+    height: 220px;
+    width: 250px;
+    padding: 20px;
+    border-color: black;
+    margin: 10px;
+}
+#tshirt
+{
+    height: 220px;
+    width: 250px;
+    padding: 20px;
+    border-color: black;
+    margin: 10px;
+}
+#mirror
+{
+    height: 220px;
+    width: 250px;
+    padding: 20px;
+    border-color: black;
+    margin: 10px;
+}
+.container
+{
+    position: relative;
+}
+.price {
+    float:left;
+    margin: 5px;
+}
+.button {
+    border-radius: 4px;
+    background-color: greenyellow;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 20px;
+    padding: 20px;
+    width: 150px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+}
+
+.button:hover
+{
+    background-color: green;
+    box-shadow: chocolate;
+}
+#crt
+{margin-right: 20px;
+    height: 50px;
+    width: 70px;
+
+}
+#showitem
+{
+    margin-right: 50px;
+
+}
+.div1
+{
+    width: 40px;
+    height: 30px;
+
+}
+.div2
+{
+    width: 40px;
+    height: 30px;
+
+}
+.div3
+{
+    width: 40px;
+    height: 30px;
+}
+.div4
+{
+    width: 40px;
+    height: 30px;
+}
+.div6
+{
+    width: 40px;
+    height: 30px;
+}
+.div7
+{
+    width: 40px;
+    height: 30px;
+}
+.div8
+{
+    width: 40px;
+    height: 30px;
+}

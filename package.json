@@ -1,0 +1,60 @@
+[
+  {
+    "id": 0,
+    "name": "MI Note 3",
+    "price": 13000,
+    "Qty": "4",
+    "value":"0"
+  },
+  {
+    "id": 1,
+    "name": "Iphone 7 plus",
+    "price": 95000,
+    "Qty": "4",
+    "value":"0"
+  },
+  {
+    "id": 2,
+    "name": "MacBook",
+    "price": 125000,
+    "Qty": "4",
+    "value":"0"
+  },
+  {
+    "id": 3,
+    "name": "Rolex",
+    "price": 3000,
+    "Qty": "4",
+    "value":"0"
+  },
+  {
+    "id": 4,
+    "name": "Mirror cube",
+    "price": 500,
+    "Qty": "4",
+    "value":"0"
+  },
+  {
+    "id": 5,
+    "name": "M.learning",
+    "price": 1200,
+    "Qty": "4",
+    "value":"0"
+  }
+  ,
+  {
+    "id": 6,
+    "name": "T shirt",
+    "price": 1000,
+    "Qty": "4",
+    "value":"0"
+  }
+  ,
+  {
+    "id": 7,
+    "name": "Chocolates",
+    "price": 600,
+    "Qty": "4",
+    "value":"0"
+  }
+]
